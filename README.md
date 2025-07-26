@@ -9,4 +9,4 @@
 | `1.sql`    | 建立/更新資料表、新增資料、資料庫圖表、關聯式資料表的應用與select...from 查詢 |
 | `2.sql`    | select...from 進階查詢與view檢視表建立1 |
 | `3.sql`    | select...from 進階查詢與view檢視表建立2 |
-| `4.sql`    | Stored Procedures預存程序與Triggers觸發程序實作 |
+| `4.sql`    | Stored Procedure預存程序與Trigger觸發程序實作 |
