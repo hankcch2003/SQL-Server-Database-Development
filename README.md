@@ -1,4 +1,4 @@
-# SQL Server 基礎開發
+# SQL Server 基礎練習
 
 本儲存庫整理了 SQL Server 的基礎語法練習，包含資料表建立與相關查詢應用範例。
 
